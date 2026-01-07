@@ -41,6 +41,7 @@ ICA04_StudentList/
             │       ├── activity_main.xml
             │       └── activity_student_detail.xml
             └── AndroidManifest.xml
+```
 
 ---
 
