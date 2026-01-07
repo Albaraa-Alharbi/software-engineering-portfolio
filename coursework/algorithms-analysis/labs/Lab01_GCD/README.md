@@ -99,3 +99,9 @@ The timing experiment shows that Euclid’s algorithm is significantly more effi
 than the naive approach, especially when dealing with large input values.
 This experiment highlights the importance of choosing efficient algorithms
 when dealing with large input sizes.
+
+---
+
+## 👤 Student Information
+- Name: Albaraa Alharbi
+- Student ID: 2342673
