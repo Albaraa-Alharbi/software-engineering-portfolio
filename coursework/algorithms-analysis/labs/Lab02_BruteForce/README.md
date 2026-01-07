@@ -32,7 +32,7 @@ The algorithm computes the Euclidean distance for every pair of points and keeps
 
 ---
 
-## ✅ Provided Answers / Results
+## ✅ Results
 
 ### Q3 (String Matching)
 - Pattern: `001100`
@@ -44,6 +44,7 @@ Points:
 
 - Closest pair indices: **0** and **3**
 - Distance: **2.8284271247461903**
+> Indices are 0-based.
 
 ---
 
