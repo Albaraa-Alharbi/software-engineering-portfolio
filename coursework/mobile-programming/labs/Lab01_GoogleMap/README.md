@@ -32,6 +32,8 @@ The application demonstrates how to integrate **Google Maps** into an Android ap
 ---
 
 🧩 Project Structure
+
+```text
 Lab01_GoogleMap/
 └── app/
     └── src/
@@ -47,7 +49,7 @@ Lab01_GoogleMap/
             ├── values/
             │   └── google_maps_api.xml
             └── AndroidManifest.xml
-
+```
 ---
 
 🛠 Technologies Used
