@@ -1,4 +1,4 @@
-# Assignment 01 – University Finder 🎓🌐
+# Assignment 01 - University Finder 🎓🌐
 
 ## 📌 Course
 Mobile Programming
@@ -59,13 +59,24 @@ The app demonstrates basic Android UI interaction by allowing users to select a 
 ---
 
 ## 📂 Project Structure
-- `MainActivity.java`
-  - Handles Spinner selection
-  - Updates ImageView based on user choice
-  - Opens university website using implicit Intent
-- `activity_main.xml`
-  - Defines the UI layout
-  - Contains Spinner, ImageView, and Button components
+
+```Text
+Lab01_GoogleMap/
+└── app/
+    └── src/
+        └── main/
+            ├── java/
+            │   └── com/
+            │       └── example/
+            │           └── googlemap/
+            │               └── MapsActivity.java
+            ├── res/
+            │   └── layout/
+            │       └── activity_maps.xml
+            ├── values/
+            │   └── google_maps_api.xml
+            └── AndroidManifest.xml
+```
 
 ---
 
