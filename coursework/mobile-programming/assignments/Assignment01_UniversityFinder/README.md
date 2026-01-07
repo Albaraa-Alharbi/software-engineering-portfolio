@@ -1,9 +1,9 @@
-# Assignment 01 - University Finder 🎓🌐
+# Assignment 01 – University Finder 🎓🌐
 
 ## 📌 Course
 Mobile Programming
 
-## 👨‍🎓 Student Information
+## 👤 Student Information
 - Name: Albaraa Alharbi
 - Student ID: 2342673
 
@@ -11,7 +11,7 @@ Mobile Programming
 
 ## 📱 Project Description
 **University Finder** is an Android application developed as **Assignment 01** for the Mobile Programming course.  
-The app demonstrates basic Android UI interaction by allowing users to select a university from a dropdown list and navigate to the university’s official website using an implicit intent.
+The app demonstrates basic Android UI interaction by allowing users to select a university from a dropdown list and open the university’s official website using an implicit intent.
 
 ---
 
@@ -42,39 +42,36 @@ The app demonstrates basic Android UI interaction by allowing users to select a 
 ---
 
 ## 🧩 Key UI Components
-- **Spinner** – Selects the university name
-- **ImageView** – Displays the university logo and acts as a clickable link
-- **Button** – Triggers the selection logic
-- **Intent (ACTION_VIEW)** – Opens the university website in a browser
+- **Spinner** – Selects the university name  
+- **ImageView** – Displays the university logo and acts as a clickable link  
+- **Button** – Triggers the selection logic  
+- **Intent (ACTION_VIEW)** – Opens the university website in a browser  
 
 ---
 
 ## 🛠 Technologies Used
-- Java
-- Android SDK
-- XML Layouts
-- Android Studio
-- Gradle
+- Java  
+- Android SDK  
+- XML Layouts  
+- Android Studio  
+- Gradle  
 
 ---
 
 ## 📂 Project Structure
 
-```Text
-Lab01_GoogleMap/
+```text
+Assignment01_UniversityFinder/
 └── app/
     └── src/
         └── main/
             ├── java/
-            │   └── com/
-            │       └── example/
-            │           └── googlemap/
-            │               └── MapsActivity.java
+            │   └── ... (MainActivity.java)
             ├── res/
-            │   └── layout/
-            │       └── activity_maps.xml
-            ├── values/
-            │   └── google_maps_api.xml
+            │   ├── layout/
+            │   │   └── activity_main.xml
+            │   └── drawable/
+            │       └── university logos
             └── AndroidManifest.xml
 ```
 
@@ -100,7 +97,6 @@ Lab01_GoogleMap/
 
 ## 🔮 Possible Improvements
 - Load universities dynamically using a data model
-- Replace Spinner with RecyclerView for scalability
 - Improve UI design using Material Components
 - Add more universities with localized content
 
