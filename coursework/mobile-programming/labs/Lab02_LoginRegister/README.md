@@ -53,12 +53,16 @@ Lab02_LoginRegister/
             ├── AndroidManifest.xml
             └── google-services.json
 ```
+---
+
 
 🛠 Technologies Used
 - Java  
 - Android SDK  
 - XML Layouts  
 - Firebase Authentication  
+
+---
 
 🚀 How to Run the Project
 1. Open **Android Studio**
@@ -70,6 +74,8 @@ Lab02_LoginRegister/
    - Firebase Authentication is enabled in Firebase Console (**Email/Password**)
 6. Run the app on an emulator or physical device
 
+---
+
 ⚠️ Notes
 - If registration/login fails, verify:
   - Firebase project configuration
@@ -77,10 +83,14 @@ Lab02_LoginRegister/
   - Email format in the “ID” field
   - Email/Password sign-in method is enabled in Firebase Console
 
+---
+
 📚 Course Information
 - Course: Mobile Programming
 - Lab: Lab 02
 - Topic: Login & Register (Firebase Authentication)
+
+---
 
 👤 Student Information
 - Name: Albaraa Alharbi
