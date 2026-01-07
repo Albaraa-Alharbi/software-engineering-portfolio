@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">In Class Activity #5</string>
+    <string name="home_tab">Home Tab</string>
+    <string name="pizza_tab">Pizza Tab</string>
+    <string name="store_tab">Store Tab</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="home_text">Home\'s Text</string>
+    <string-array name="pizzas">
+        <item>Pepperoni</item>
+        <item>Vegetable</item>
+        <item>Hawaiian</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Thrift Shop</item>
+        <item>Watch House</item>
+        <item>The Market</item>
+    </string-array>
+</resources>

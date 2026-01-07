@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_bg">#E3F2FD</color>
+    <color name="main_title">#0D47A1</color>
+    <color name="list_divider">#90CAF9</color>
+    <color name="list_bg">#FFFFFF</color>
+    <color name="detail_bg">#F1F8E9</color>
+    <color name="detail_title">#33691E</color>
+    <color name="detail_text_main">#1B5E20</color>
+    <color name="detail_text_sub">#2E7D32</color>
+</resources>

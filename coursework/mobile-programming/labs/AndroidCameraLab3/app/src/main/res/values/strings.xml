@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Camera Lab3</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="imageview">ImageView</string>
+    <string name="tap_to_change">tap to change</string>
+    <string name="profile_image">Circular Image View</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="infoText">Simple App That Shows Weather Information. \nMade By: Albaraa Alharbi - 2342673</string>
+    <string name="cityInput">Enter City\'s Name (Example: Jeddah)</string>
+    <string name="unitSwitch">Unit: ON=°F OFF=°C</string>
+    <string name="checkWeather">Check Weather</string>
+    <string name="celUnit">°C</string>
+    <string name="fehUnit">°F</string>
+    <string name="locationText">Location</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="clear">Clear</string>
+    <string name="temp">Temp: --</string>
+    <string name="humidity">Humidity: --</string>
+    <string name="wind">Wind: --</string>
+    <string name="returnBack">Return Back</string>
+</resources>

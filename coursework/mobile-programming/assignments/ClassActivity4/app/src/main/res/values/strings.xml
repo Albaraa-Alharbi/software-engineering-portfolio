@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ClassActivity4</string>
+
+    <string name="student1_name">Albaraa Alharbi</string>
+    <string name="student1_id">2342673</string>
+
+    <string name="student2_name">Mosaab Alshehri</string>
+    <string name="student2_id">2140761</string>
+
+    <string name="student3_name">Reda Alamoudi</string>
+    <string name="student3_id">2340226</string>
+    <string name="student_details">Student Details</string>
+    <string name="student_list">Student List</string>
+</resources>

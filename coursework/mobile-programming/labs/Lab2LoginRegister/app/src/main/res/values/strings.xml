@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2 Login&amp;Register</string>
+    <string name="login">Login</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_here_to_login">Click Here To Login</string>
+    <string name="click_here_to_register">Click Here To Register</string>
+    <string name="logout">Logout</string>
+</resources>

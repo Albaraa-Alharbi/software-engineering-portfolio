@@ -1,0 +1,13 @@
+<resources>
+    <!--Name of the app-->
+    <string name="app_name">UiversityFinder</string>
+    <!--Setting an entry name, in this code I used: "UniNames"-->
+    <string-array name="UniNames">
+        <!--Setting a spinner items to be selected, in this code I've chosen names of universities-->
+        <item>-- Select One University --</item>
+        <item>University of Jeddah</item>
+        <item>King Abdulaziz University</item>
+        <item>Taibah University</item>
+    </string-array>
+
+</resources>
