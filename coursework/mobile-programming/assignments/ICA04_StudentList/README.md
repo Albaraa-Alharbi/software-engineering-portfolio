@@ -21,25 +21,27 @@ information about a selected student on a separate screen.
 - Navigate to a details screen
 - Show student information (name, ID, major, etc.)
 
-## 🧩 Project Structure
-
 ---
 
+## 🧩 Project Structure
+
+```text
 ICA04_StudentList/
-├── app/
-│ ├── src/
-│ │ └── main/
-│ │ ├── java/
-│ │ │ └── classActivity/
-│ │ │ └── num4/
-│ │ │ ├── MainActivity.java
-│ │ │ ├── Student.java
-│ │ │ └── StudentDetailActivity.java
-│ │ ├── res/
-│ │ │ └── layout/
-│ │ │ ├── activity_main.xml
-│ │ │ └── activity_student_detail.xml
-│ │ └── AndroidManifest.xml
+└── app/
+    └── src/
+        └── main/
+            ├── java/
+            │   └── classActivity/
+            │       └── num4/
+            │           ├── MainActivity.java
+            │           ├── Student.java
+            │           └── StudentDetailActivity.java
+            ├── res/
+            │   └── layout/
+            │       ├── activity_main.xml
+            │       └── activity_student_detail.xml
+            └── AndroidManifest.xml
+
 ---
 
 ## 🛠 Technologies Used
