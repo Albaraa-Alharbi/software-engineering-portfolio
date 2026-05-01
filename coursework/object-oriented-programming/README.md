@@ -1,10 +1,10 @@
 # Object-Oriented Programming – Labs
 
-This folder contains a collection of **object-oriented programming labs** completed as part of the  
+This folder contains two **object-oriented programming labs** completed as part of the  
 **Object-Oriented Programming** course.
 
 Labs are designed to focus on **individual OOP concepts**, allowing hands-on
-practice with core principles before applying them in more complex problem-solving tasks.
+practice.
 
 ---
 
