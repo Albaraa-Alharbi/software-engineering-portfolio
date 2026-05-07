@@ -24,6 +24,7 @@ software-engineering-portfolio/
 ├── coursework/
 │   ├── mobile-programming/
 │   ├── algorithms-analysis/
+│   ├── object-oriented-programming
 │   └── web-development/
 ├── .gitignore
 └── README.md
